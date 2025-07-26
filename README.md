@@ -136,7 +136,7 @@ Check `app.log` for debugging information on SQL queries, rate limits, or errors
 - **Security**: Sanitizes user inputs to prevent SQL injection.
 
 ## Troubleshooting
-- **Gemini API Rate Limits (429)**:
+- **Gemini API Rate Limits**:
   - Wait 6-10 seconds between queries or request a quota increase: https://console.cloud.google.com/quotas
   - Verify `GOOGLE_API_KEY` in `.env`.
 - **SQL Errors (1064)**:
