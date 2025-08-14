@@ -21,10 +21,7 @@ This Retrieval-Augmented Generation (RAG) application, developed for the Fealty 
 
 ## Setup Instructions
 1. **Clone the Repository**:
-   ```bash
-   git clone <your-repo-url>
-   cd <repo-directory>
-   ```
+ 
 
 2. **Set Up Virtual Environment**:
    ```bash
